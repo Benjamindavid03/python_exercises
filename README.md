@@ -1,2 +1,3 @@
 # python_exercises
-## Consists of python exercises that are interesting to me
+## This repository will contain codes taught in my practical classes.
+Classes taught using https://colab.research.google.com/

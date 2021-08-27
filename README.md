@@ -1,7 +1,8 @@
 # Python Exercises
 ## This repository will contain codes taught in my practical classes.
 
-<b>Python Basics</b>
+<b>Python Basics</b> 
+Link : https://github.com/Benjamindavid03/python_exercises/blob/main/Python_Basics.ipynb
 
 1. Python fundamentals
 2. Introduction to comments in python
@@ -21,7 +22,8 @@
 16. Default parameter values in functions
 17. Arbitrary Argument
 
-<b>Python Intermediate</b>
+<b>Python Intermediate</b> 
+Link : https://github.com/Benjamindavid03/python_exercises/blob/main/Python_Intermediate.ipynb
 1. Functions in Python contd
 2. Pass statement
 3. Recursion

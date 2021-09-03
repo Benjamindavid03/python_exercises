@@ -33,6 +33,10 @@ Link : https://github.com/Benjamindavid03/python_exercises/blob/main/Python_Inte
 7. Creating the Objects and assigning the values
 8. Access the properties of the class
 9. Calling the method ShowDetail from the Human class
+10. Object oriented Programming
+11. Properties and methods
+12. Constructors
+13. Parameterized Constructors
 
 
 Classes taught using https://colab.research.google.com/

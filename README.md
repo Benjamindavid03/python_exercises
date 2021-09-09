@@ -1,6 +1,6 @@
 # Python Exercises
 ## This repository will contain codes taught in my practical classes.
-
+<img src="https://code.visualstudio.com/assets/home/home-screenshot-mac.png"/>
 <b>Python Basics</b> 
 Link : https://github.com/Benjamindavid03/python_exercises/blob/main/Python_Basics.ipynb
 
@@ -36,6 +36,25 @@ Link : https://github.com/Benjamindavid03/python_exercises/blob/main/Python_Inte
 10. Properties and methods
 11. Constructors
 12. Parameterized Constructors
+13. An Example for OOP using Complex numbers
+14. An Example for OOP using Mobile - Real object
+15. class for sum of numbers
+16. Inheritance in python
+17. Animal class example
+18. super() function in python
+19. Python Iterators
+20. Scope of variables
+21. Custom Modules and Classes <a href="https://github.com/Benjamindavid03/python_exercises/blob/main/maths.py">Module</a>
+22. Using Modules in our program 
+<a href="https://github.com/Benjamindavid03/python_exercises/blob/main/use.py">Python file</a>
 
 
-Classes taught using https://colab.research.google.com/
+
+
+<b>Tools required : </b>
+1. Google Colab : https://colab.research.google.com/
+2. Python Download link  : https://www.python.org/downloads/
+3. Visual Studio Code : https://code.visualstudio.com/
+
+
+

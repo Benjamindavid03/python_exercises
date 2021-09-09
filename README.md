@@ -1,5 +1,7 @@
 # Python Exercises
-## This repository will contain codes taught in my practical classes.
+## This repository will contain codes taught in my python classes.
+### Contact me for personalized training. <a href="tel://9952806093">9952806093</a>, <a href="mailto://benjamindavid03@gmail.com">benjamindavid03@gmail.com</a>
+
 <img src="https://code.visualstudio.com/assets/home/home-screenshot-mac.png"/>
 <b>Python Basics</b> 
 Link : https://github.com/Benjamindavid03/python_exercises/blob/main/Python_Basics.ipynb
